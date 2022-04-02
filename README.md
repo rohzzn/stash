@@ -1,4 +1,12 @@
 <p>
+  <a href="https://github.com/Calatop/Stash/tree/main/VS%20Code" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/47408756/161364334-e9df1360-b379-457b-808a-bfd5e13ba598.png" alt="VS Code" />
+  </a>
+</p>
+
+#
+
+<p>
   <a href="https://github.com/Calatop/Stash/tree/main/Discord" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/47408756/161363852-7d07a9a5-82eb-4219-8bbd-d2b92605a022.png" alt="Discord" />
   </a>
@@ -12,5 +20,4 @@
   </a>
 </p>
 
-#
 
