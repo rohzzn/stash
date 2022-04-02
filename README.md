@@ -1,5 +1,5 @@
 <p>
-  <a href="https://github.com/Calatop/Stash/tree/main/vscode-settings" target="_blank">
+  <a href="https://github.com/Calatop/Stash/tree/main/.vscode" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/47408756/161364334-e9df1360-b379-457b-808a-bfd5e13ba598.png" alt="VS Code" />
   </a>
 </p>
