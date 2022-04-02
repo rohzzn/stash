@@ -1,0 +1,28 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right",
+    "workbench.colorCustomizations": {
+     "tab.activeBackground": "#ff000000"   
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "terminal.integrated.gpuAcceleration": "no",
+    "workbench.startupEditor": "none",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "css": true
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "liveServer.settings.donotShowInfoMsg": true
+}

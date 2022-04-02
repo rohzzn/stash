@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+  
+      // themes & icons
+      "PKief.material-icon-theme",
+      "RohanSanjeev.tanoshi",   
+      "jdinhlife.gruvbox", 
+      "sainnhe.gruvbox-material",
+  
+      // extensions 
+      "GitHub.copilot",
+      "esbenp.prettier-vscode",
+      "GitHub.github-vscode-theme",      
+      "GitHub.remotehub",
+      "GitHub.vscode-pull-request-github",
+      "formulahendry.code-runner ",
+      "shyykoserhiy.vscode-spotify",
+      "streetsidesoftware.code-spell-checker",
+      "icrawl.discord-vscode"
+      
+    ]
+  }
