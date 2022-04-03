@@ -2,7 +2,13 @@
   <a href="https://github.com/Calatop/Stash/tree/main/.vscode" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/47408756/161364334-e9df1360-b379-457b-808a-bfd5e13ba598.png" alt="VS Code" />
   </a>
+  
 </p>
+
+
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theme | <a href="https://github.com/morhetz/gruvbox">Gruvbox & </a><a href="https://github.com/Calatop/Tanoshi">Tanoshi </a>
+&nbsp;Icons | <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icons</a>
+
 
 #
 
@@ -12,6 +18,9 @@
   </a>
 </p>
 
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <a href="https://github.com/Calatop/Stash/tree/main/Discord/plugins">Plugins</a>
+&nbsp;| <a href="https://github.com/Calatop/Stash/tree/main/Discord/themes">Themes</a>
+  
 #
 
 <p>
@@ -20,4 +29,6 @@
   </a>
 </p>
 
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <a href="https://github.com/Calatop/Stash/wiki/Design-Resources">Design</a>
+&nbsp;| <a href="https://github.com/Calatop/Stash/wiki/Dev-Resources">Dev</a>
 
