@@ -5,9 +5,8 @@
   
 </p>
 
-
-<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theme | <a href="https://github.com/morhetz/gruvbox">Gruvbox & </a><a href="https://github.com/Calatop/Tanoshi">Tanoshi </a>
-&nbsp;Icons | <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icons</a>
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <a href="https://github.com/Calatop/Stash/blob/main/.vscode/settings.json">Settings</a>
+&nbsp;| <a href="https://github.com/Calatop/Stash/blob/main/.vscode/extension.json">Extensions</a>
 
 
 #
