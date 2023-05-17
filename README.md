@@ -1,38 +1,20 @@
-## Software 
-- Visual Studio Code
-- Warp
-- Arc
-- Texts
-- Cron
-- Spotify
-- Github Desktop
-- Notion
-- Milanote
-- Figma 
-- Adobe Photoshop
-- Adobe Illustrator  
-- Adobe After Effects
-- Adobe Media Encoder
-- Final Cut Pro
-
-## Hardware
-- Macbook Air M2 
-- Benq 165HZ 27"
-- Dell 60HZ 21"
-- Blue Snowball
-- GK-61 Gateron Brown Switches
-- G402 & G102
-- Gigantus v2
-- Karken v2
-- Alexa
-
-## Custom Build
-- RTX 3060TI 8GB OC
-- AMD Ryzen 2600x 
-- Corsair Vengeance LPX 8GB X 2 
-- Gigabyte A320M
-- 1TB HDD Westeren Digital
-- Antec Cabinet
+| Tools               | Hardware                     | Custom Build                  |
+| ------------------- | ---------------------------- | ----------------------------- |
+| Visual Studio Code  | Macbook Air M2               | RTX 3060TI 8GB OC             |
+| Warp                | Benq 165HZ 27"               | AMD Ryzen 2600x               |
+| Arc                 | Dell 60HZ 21"                | Corsair Vengeance LPX 8GB X 2 |
+| Texts               | Blue Snowball                | Gigabyte A320M                |
+| Cron                | GK-61 Gateron Brown Switches | 1TB HDD Western Digital       |
+| Spotify             | G402 & G102                  | Antec Cabinet                 |
+| Github Desktop      | Gigantus v2                  |                               |
+| Notion              | Karken v2                    |                               |
+| Milanote            | Alexa                        |                               |
+| Figma               |                              |                               |
+| Adobe Photoshop     |                              |                               |
+| Adobe Illustrator   |                              |                               |
+| Adobe After Effects |                              |                               |
+| Adobe Media Encoder |                              |                               |
+| Final Cut Pro       |                              |                               |
 
 
 #
